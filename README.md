@@ -24,7 +24,3 @@ A one-click performance optimization tool designed for both low-end and high-ran
 
 - ✅ **Lightweight & Offline** 
   Doesn’t run in the background, doesn’t collect data, and doesn’t rely on internet access.
-
----
-
-Let me know if you want a "How to Use" section next! I can also add visuals like badges or usage GIFs if you're planning to go all in on the GitHub page.
